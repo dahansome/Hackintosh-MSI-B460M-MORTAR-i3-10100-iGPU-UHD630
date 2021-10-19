@@ -24,9 +24,10 @@ Supports macOS11.2 ~ macOS12.0
 ### Working
 
 - Onboard Audio (including digital audio)
-- Bluetooth & Wi-Fi
+- Bluetooth & Wi-Fi 
 - Sleep/Wake
-- HDMI Interface
+- HDMI -> HDMI
+- DP -> HDMI
 - App Store
 - Power Nap
 - NVRAM
