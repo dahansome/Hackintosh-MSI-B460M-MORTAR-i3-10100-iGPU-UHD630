@@ -1,7 +1,8 @@
 # Hackintosh-MSI-B460M-MORTAR-i3-10100-iGPU-UHD630
 
-## EFI
+## EFI Change log
 
+### 2021-10-19
 OpenCore: 0.7.4
 
 Supports macOS11.2 ~ macOS12.0
@@ -60,10 +61,10 @@ Supports macOS11.2 ~ macOS12.0
 - CFG lock: prohibited
 
 ## Monitor settings
-- Brightness 100
-- Clarity 60
-- Contrast 70
-
+- Brightness:100
+- Clarity:60
+- Contrast:70
+- Eye protection:Turn-off
 
 ## Onboard network card settings
 System Preferences -> Network -> Ethernet (Advanced) -> Hardware -> Configuration: Manual, Speed: 100baseTX (1000baseT can be selected for Gigabit network environment), Duplex: Full Duplex, MTU: Standard 1500
