@@ -1,4 +1,4 @@
-# Hackintosh-B460M-MORTAR-i3-10100-iGPU-UHD630
+# Hackintosh-MSI B460M-MORTAR-i3-10100-iGPU-UHD630
 
 ## Hardware Configuration
 
