@@ -23,7 +23,7 @@ Supports macOS11.2 ~ macOS12.0
 ## What's Working/What's Not
 ### Working
 
-- Onboard Audio (including digital audio)
+- Onboard Audio
 - Bluetooth & Wi-Fi 
 - Sleep/Wake
 - HDMI -> HDMI
@@ -58,6 +58,12 @@ Supports macOS11.2 ~ macOS12.0
 - USB keyboard wake up from S3/S4/S5: any key
 - Integrated graphics and multiple monitors: Allowed (otherwise the hardware decoding of the core display will fail, and those that only use the core display can be ignored)
 - CFG lock: prohibited
+
+## Monitor settings
+- Brightness 100
+- Clarity 60
+- Contrast 70
+
 
 ## Onboard network card settings
 System Preferences -> Network -> Ethernet (Advanced) -> Hardware -> Configuration: Manual, Speed: 100baseTX (1000baseT can be selected for Gigabit network environment), Duplex: Full Duplex, MTU: Standard 1500
