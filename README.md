@@ -4,9 +4,7 @@
 
 OpenCore: 0.7.4
 
-macOS version: 12.0
-
-
+Supports macOS11.2 ~ macOS12.0
 
 ## Hardware Configuration
 
@@ -15,13 +13,32 @@ macOS version: 12.0
 | CPU  | I3-10100  |
 | CPU Cooler  | DEEPCOOL GAMMAXX400K  |
 | Motherboard  |  MSI B460M MORTAR  |
-| DRAM  |  ADATA DDR4 2666 16G*1 | 
-| Storage  | Kingston SA400S37-240G |
-| Graphics card  |  I3-10100 nuclear display UHD630  |
+| Memory |  ADATA DDR4 2666MHz 16G*1 | 
+| Hard Disk | Kingston SSD SA400S37-240G |
+| Graphics card  |  Intel UHD Graphics 630  |
 | Monitor  |  SAMSUNG C24F390FHC 23.5"  1800R Free-sync HDMI |
 | Power Supply  |  Segotep 600G 500W 80 Plus Gold |
+| Wireless Card  |  FV-T919 BCM94360CD |
 
+## What's Working/What's Not
+### Working
 
+- Onboard Audio (including digital audio)
+- Bluetooth & Wi-Fi
+- Sleep/Wake
+- HDMI Interface
+- App Store
+- Power Nap
+- NVRAM
+### Not Working (as expected)
+
+### Not Yet Tested
+- Handoff
+- AirPlay
+- iMessage
+- Facetime
+- Ethernet
+- All USB ports at 3.x speed
 
 ## CPU support
  - [x] Supports all 10-generation CPUs with UHD630 cores
