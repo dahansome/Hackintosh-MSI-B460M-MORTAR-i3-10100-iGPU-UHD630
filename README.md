@@ -19,7 +19,7 @@ Supports macOS11.2 ~ macOS12.0
 | Graphics card  |  Intel UHD Graphics 630  |
 | Monitor  |  SAMSUNG C24F390FHC 23.5"  1800R Free-sync HDMI |
 | Power Supply  |  Segotep 600G 500W 80 Plus Gold |
-| Wireless Card  |  FV-T919 BCM94360CD |
+| Wireless Card  |  FV-T919 BCM94360CD 44 Antenna |
 
 ## What's Working/What's Not
 ### Working
