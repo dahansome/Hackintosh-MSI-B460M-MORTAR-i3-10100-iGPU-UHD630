@@ -1,9 +1,16 @@
 # Hackintosh-B460M-MORTAR-i3-10100-iGPU-UHD630
 
-##Hardware Configuration
-Configuration	model
-CPU	I3-10100
-Motherboard	B460M Bazooka
+## Hardware Configuration
+
+
+| Configuration  | model |
+| ------------- | ------------- |
+| CPU  | I3-10100  |
+| Motherboard  |  MSI B460M MORTAR  |
+	
+
+
+
 RAM	GSKILL 2666 8G*2
 Graphics card	I3-10100 nuclear display UHD630
 
