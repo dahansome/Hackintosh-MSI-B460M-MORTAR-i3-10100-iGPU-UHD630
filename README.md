@@ -5,7 +5,7 @@
 
 ![Alt text](https://github.com/dahansome/Hackintosh-MSI-B460M-MORTAR-i3-10100-iGPU-UHD630/blob/main/Installed%20instance/Picsee-20211020191714.png)
 
-![Alt text](https://github.com/dahansome/Hackintosh-MSI-B460M-MORTAR-i3-10100-iGPU-UHD630/blob/main/Installed%20instance/Picsee-20211020191714.png)
+![Alt text](https://github.com/dahansome/Hackintosh-MSI-B460M-MORTAR-i3-10100-iGPU-UHD630/blob/main/Installed%20instance/Picsee-20211020193029.png)
 
 ## EFI Change log
 
