@@ -43,11 +43,11 @@ Supports macOS11.2 ~ macOS12.0
 - Power Nap
 - NVRAM
 - Handoff
+- iMessage
 ### Not Working (as expected)
 
 ### Not Yet Tested
 - AirPlay
-- iMessage
 - Facetime
 - Ethernet
 - All USB ports at 3.x speed
