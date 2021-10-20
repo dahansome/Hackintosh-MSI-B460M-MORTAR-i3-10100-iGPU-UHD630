@@ -63,10 +63,7 @@ As of right now, nothing!
 - CFG lock: prohibited
 
 ## Monitor settings
-- Brightness:100
-- Clarity:60
-- Contrast:70
-- Eye protection:Turn-off
+- Use default settings
 
 ## Onboard network card settings
 System Preferences -> Network -> Ethernet (Advanced) -> Hardware -> Configuration: Manual, Speed: 100baseTX (1000baseT can be selected for Gigabit network environment), Duplex: Full Duplex, MTU: Standard 1500
