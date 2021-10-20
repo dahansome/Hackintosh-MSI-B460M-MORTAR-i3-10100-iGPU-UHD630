@@ -25,6 +25,7 @@ Supports macOS11.2 ~ macOS12.0
 ### Working
 
 - Onboard Audio
+- Boot sound
 - Graphics Acceleration
 - Bluetooth & Wi-Fi 
 - Sleep/Wake
@@ -35,9 +36,8 @@ Supports macOS11.2 ~ macOS12.0
 - Power Nap
 - NVRAM
 ### Not Working (as expected)
-As of right now, nothing! 
-### Not Yet Tested
 - Handoff
+### Not Yet Tested
 - AirPlay
 - iMessage
 - Facetime
