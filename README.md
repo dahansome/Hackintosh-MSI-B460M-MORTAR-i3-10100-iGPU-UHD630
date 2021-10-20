@@ -39,8 +39,9 @@ Supports macOS11.2 ~ macOS12.0
 - App Store
 - Power Nap
 - NVRAM
-### Not Working (as expected)
 - Handoff
+### Not Working (as expected)
+
 ### Not Yet Tested
 - AirPlay
 - iMessage
