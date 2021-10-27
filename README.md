@@ -9,10 +9,10 @@
 
 ## EFI Change log
 
-### 2021-10-19
+### 2021-10-27
 OpenCore: 0.7.4
 
-Supports macOS11.2 ~ macOS12.0
+Supports macOS11.2 ~ macOS12.0.1
 
 ## Hardware Configuration
 
