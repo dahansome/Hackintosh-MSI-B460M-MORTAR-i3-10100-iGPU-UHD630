@@ -3,9 +3,9 @@
 
 ![Alt text](https://github.com/dahansome/Hackintosh-MSI-B460M-MORTAR-i3-10100-iGPU-UHD630/blob/d032a67197e28b41ddedbc16b0fdd04e25bdc241/Screenshot/Driver%20version.png)
 
-![Alt text](https://github.com/dahansome/Hackintosh-MSI-B460M-MORTAR-i3-10100-iGPU-UHD630/blob/main/Installed%20instance/Picsee-20211020191714.png)
+![Alt text](https://github.com/dahansome/Hackintosh-MSI-B460M-MORTAR-i3-10100-iGPU-UHD630/blob/e86e8be347afc30e5074fede31658a91eb0af19c/Screenshot/Handoff%20%20test.png)
 
-![Alt text](https://github.com/dahansome/Hackintosh-MSI-B460M-MORTAR-i3-10100-iGPU-UHD630/blob/main/Installed%20instance/Picsee-20211020193029.png)
+![Alt text](https://github.com/dahansome/Hackintosh-MSI-B460M-MORTAR-i3-10100-iGPU-UHD630/blob/e86e8be347afc30e5074fede31658a91eb0af19c/Screenshot/OC%20version.png)
 
 ## EFI Change log
 
