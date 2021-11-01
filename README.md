@@ -1,5 +1,5 @@
 # Hackintosh-MSI-B460M-MORTAR-i3-10100-iGPU-UHD630
-![Alt text](https://github.com/dahansome/Hackintosh-MSI-B460M-MORTAR-i3-10100-iGPU-UHD630/blob/main/Installed%20instance/Picsee-20211019215632.png)
+![Alt text](https://github.com/dahansome/Hackintosh-MSI-B460M-MORTAR-i3-10100-iGPU-UHD630/blob/272a25276447933c6848479abfb35c4a31dea727/Screenshot/About%20this%20machine.png)
 
 ![Alt text](https://github.com/dahansome/Hackintosh-MSI-B460M-MORTAR-i3-10100-iGPU-UHD630/blob/main/Installed%20instance/Picsee-20211020191604.png)
 
