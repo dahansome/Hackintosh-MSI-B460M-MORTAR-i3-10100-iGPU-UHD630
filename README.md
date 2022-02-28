@@ -1,5 +1,5 @@
 # Hackintosh-MSI-B460M-MORTAR-i3-10100-iGPU-UHD630
-![Alt text](https://github.com/dahansome/Hackintosh-MSI-B460M-MORTAR-i3-10100-iGPU-UHD630/blob/272a25276447933c6848479abfb35c4a31dea727/Screenshot/About%20this%20machine.png)
+![Alt text](https://github.com/dahansome/Hackintosh-MSI-B460M-MORTAR-i3-10100-iGPU-UHD630/blob/main/Screenshot/About%20this%20machine12.2.1.png)
 
 ![Alt text](https://github.com/dahansome/Hackintosh-MSI-B460M-MORTAR-i3-10100-iGPU-UHD630/blob/d032a67197e28b41ddedbc16b0fdd04e25bdc241/Screenshot/Driver%20version.png)
 
@@ -8,7 +8,12 @@
 ![Alt text](https://github.com/dahansome/Hackintosh-MSI-B460M-MORTAR-i3-10100-iGPU-UHD630/blob/e86e8be347afc30e5074fede31658a91eb0af19c/Screenshot/OC%20version.png)
 
 ## EFI Change log
+### 2022-02-28
+OpenCore: 0.7.4
 
+Supports macOS12.2.1
+
+Fixed a situation where online updates could not be made
 ### 2021-10-27
 OpenCore: 0.7.4
 
