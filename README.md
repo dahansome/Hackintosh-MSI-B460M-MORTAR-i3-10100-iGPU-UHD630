@@ -8,6 +8,11 @@
 ![Alt text](https://github.com/dahansome/Hackintosh-MSI-B460M-MORTAR-i3-10100-iGPU-UHD630/blob/e86e8be347afc30e5074fede31658a91eb0af19c/Screenshot/OC%20version.png)
 
 ## EFI Change log
+### 2022-03-18
+OpenCore: 0.7.4
+
+Supports macOS12.3
+
 ### 2022-02-28
 OpenCore: 0.7.4
 
